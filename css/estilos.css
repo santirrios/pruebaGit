@@ -1,5 +1,9 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: deeppink;
+}
+.post{
+    background: rgb(187, 184, 184);
+    margin: 0 10%;
+    border: 1px solid black;
 }
